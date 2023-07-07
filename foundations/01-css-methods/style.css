@@ -1,0 +1,17 @@
+div{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 32px;
+    font-style: bold;
+}
+p{
+    background-color: black;
+    color: aliceblue;
+    font-size: 18px;
+}
+button{
+    background-color: black;
+    color: azure;
+    font-size: 18px;
+}
