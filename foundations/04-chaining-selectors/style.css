@@ -1,0 +1,19 @@
+.avatar.proportioned{
+    width: 300px;
+}
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
+
+.original.proportioned{
+    border-color: rgb(156, 16, 98);
+    border-radius: 5cm;
+    border-style: outset;
+}
+
+.original.distorted{
+    background-color: darkslategray;
+    border-style: dashed;
+    border-radius: 0.5cm;
+}
