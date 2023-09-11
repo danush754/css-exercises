@@ -45,7 +45,7 @@ body {
   width: 24px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   border: 1px solid #eee;
   padding: 0;
 }
@@ -67,3 +67,38 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.topbar{
+  margin: 15px;
+  margin-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.topbar .header{
+  font-weight: 600;
+  font-size: 20px;
+  margin-right:  auto;
+  padding-left: 15px;
+  
+}
+
+.centerbar{
+  margin-top: 0;
+  margin-left: 36px;
+  padding-left: 36px ;
+}
+
+.footbar{
+  display: flex;
+  flex: 1;
+  margin: 15px;
+  gap: 10px;
+}
+
+.footbar .continue{
+  margin-left: 60px;
+  
+}
+
+
